@@ -36,7 +36,7 @@ console.log(`Division of string by boolean ${str} / ${boolT} = ${str / boolT}`);
 console.log(`Division of string by number ${str} / ${num} = ${str / num}`); // NaN
 
 console.log(`Division of numeric string by number "${numStr}" / ${num} = ${numStr / num}`); // NaN
-
+1
 console.log(`Division of number by boolean ${num} / ${boolT} = ${num / boolT}`); // 3
 
 console.log(`Division of number by boolean ${num} / ${boolF} = ${num / boolF}`); // Infinity
